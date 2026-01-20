@@ -31,7 +31,7 @@
   <li> git checkout -b master</li>
   <li> nano main.py</li>
   <li> git add .</li>
-  <li> git stash -m "Stagged Message" </li>
+  <li> git stash -m "Stashed Message" </li>
   <li> git checkout -b feature-branch</li>
   <li> git stash apply</li>
   <li> git push origin feature-branch</li>
