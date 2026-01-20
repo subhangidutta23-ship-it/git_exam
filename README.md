@@ -2,20 +2,22 @@
 # Commands to Stash changes, switch branches, and then apply the stashed message.
 <p>
   <h> Syntax </h>
-  <l>1.git config --global user.name "username"</l> 
-  <l>2. git config --global user.email "useremail"</l>
-  <l>3. git clone <repo-url></l>
-  <l>4. cd repo_name</l>
-  <l>5. git status</l>
-  <l>6. git checkout -b branch_name</l>
-  <l>7. nano file_name</l>
-  <l>8. git add .</l>
-  <l>9. git stash -m "Message" </l>
-  <l>10. git checkout -b new_branch_name</l>
-  <l>11. git stash apply</l>
-  <l>12. git push origin new_branch_name</l>
-  <l>13. git stash list</l>
-  <l>14. git push origin branch_name</l>
+  <ol>
+  <li>1.git config --global user.name "username"</li> 
+  <li>2. git config --global user.email "useremail"</li>
+  <li>3. git clone <repo-url></li>
+  <li>4. cd repo_name</li>
+  <li>5. git status</li>
+  <li>6. git checkout -b branch_name</li>
+  <li>7. nano file_name</li>
+  <li>8. git add .</li>
+  <li>9. git stash -m "Message" </li>
+  <li>10. git checkout -b new_branch_name</li>
+  <li>11. git stash apply</li>
+  <li>12. git push origin new_branch_name</li>
+  <li>13. git stash list</li>
+  <li>14. git push origin branch_name</li>
+  </ol>
 </p>
 
 <p>
