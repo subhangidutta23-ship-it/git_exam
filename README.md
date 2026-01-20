@@ -1,5 +1,5 @@
 # Git External exam
-# Commands to Stash changes, switch branches, and then apply the stashed message.
+# Commands to stash changes, switch branches, and then apply the stashed message.
 <p>
   <h> <b> Syntax </b> </h>
   <ol>
