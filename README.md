@@ -1,4 +1,3 @@
-<center>
 # Git External exam
 # Commands to Stash changes, switch branches, and then apply the stashed message.
 <p>
@@ -40,4 +39,3 @@
   <li> git push origin master</li>
   </ol>
 </p>
-</center>
